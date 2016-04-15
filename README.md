@@ -1,6 +1,6 @@
 # RubyMine Configurations
 
-My configurtion for RubyMine
+My configurtion for RubyMine 7.1.4
 
 ## Execute
 
