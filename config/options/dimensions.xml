@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="FileChooserDialogImpl.0.0.1600.900" x="615" y="257" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="615" y="313" />
     <location key="WELCOME_SCREEN.0.0.1600.900" x="832" y="230" />
     <location key="SettingsEditor.0.0.1600.900" x="368" y="113" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.900" x="293" y="136" />

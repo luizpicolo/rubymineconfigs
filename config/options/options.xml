@@ -7,7 +7,7 @@
     <property name="RubyMine.full.reindex.required" value="1" />
     <property name="installation.uid" value="60367ed3-b6e7-408e-85f7-e96a95942b60" />
     <property name="Ruby.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/ruby/news_admin&#10;/home/w3case/ruby/anaec&#10;/home/w3case/ruby/w3case&#10;/home/w3case/ruby/rails_admin_dropzone&#10;/home/w3case/ruby/rails_admin_multiple_upload&#10;/home/w3case/ruby/boletinonline" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Material_Theme.zip&#10;/home/w3case/ruby/news_admin&#10;/home/w3case/ruby/anaec&#10;/home/w3case/ruby/w3case&#10;/home/w3case/ruby/rails_admin_dropzone&#10;/home/w3case/ruby/rails_admin_multiple_upload&#10;/home/w3case/ruby/boletinonline" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="Yellow" />
@@ -29,5 +29,7 @@
     <property name="$USER_HOME$/.rvm/rubies/ruby-2.2.1/bin/ruby:IDE" value="0.4.32" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="default" />
   </component>
 </application>

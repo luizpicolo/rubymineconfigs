@@ -2,9 +2,9 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/ruby/boletinonline" />
         <option value="$USER_HOME$/ruby/news_admin" />
         <option value="$USER_HOME$/ruby/rails_admin_dropzone" />
-        <option value="$USER_HOME$/ruby/boletinonline" />
         <option value="$USER_HOME$/ruby/agronegociosgs" />
         <option value="$USER_HOME$/ruby/anaec" />
         <option value="$USER_HOME$/ruby/leticiamoia" />
@@ -15,9 +15,9 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/ruby/news_admin" />
+        <option value="$USER_HOME$/ruby/boletinonline" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/ruby/news_admin" />
+    <option name="lastPath" value="$USER_HOME$/ruby/boletinonline" />
   </component>
 </application>
