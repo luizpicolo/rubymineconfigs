@@ -1,0 +1,39 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="615" y="257" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="832" y="230" />
+    <location key="SettingsEditor.0.0.1600.900" x="368" y="113" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.900" x="293" y="136" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1600.900" x="546" y="396" />
+    <location key="#Inspections.0.0.1600.900" x="467" y="157" />
+    <location key="Github.CreateGistDialog.0.0.1600.900" x="641" y="375" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" x="665" y="79" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="1211" y="533" />
+    <location key="findTextDialog.0.0.1600.900" x="618" y="313" />
+    <location key="replaceTextDialog.0.0.1600.900" x="614" y="173" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1600.900" x="269" y="421" />
+    <location key="EditParametersPopupWindow.0.0.1600.900" x="589" y="379" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" x="561" y="218" />
+    <size key="FileChooserDialogImpl.0.0.1600.900" width="424" height="465" />
+    <size key="SettingsEditor.0.0.1600.900" width="1052" height="663" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1535" height="247" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1535" height="247" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1535" height="247" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1535" height="247" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1600.900" width="573" height="243" />
+    <size key="GridCell.Tab.1.left.0.0.1600.900" width="1535" height="247" />
+    <size key="GridCell.Tab.1.center.0.0.1600.900" width="1535" height="247" />
+    <size key="GridCell.Tab.1.right.0.0.1600.900" width="1535" height="247" />
+    <size key="GridCell.Tab.1.bottom.0.0.1600.900" width="1535" height="247" />
+    <size key="javadoc.popup.0.0.1600.900" width="557" height="188" />
+    <size key="#Inspections.0.0.1600.900" width="720" height="635" />
+    <size key="Github.CreateGistDialog.0.0.1600.900" width="373" height="199" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" width="324" height="819" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="385" height="367" />
+    <size key="findTextDialog.0.0.1600.900" width="418" height="520" />
+    <size key="replaceTextDialog.0.0.1600.900" width="427" height="576" />
+    <size key="ReplaceDuplicatesPrompt.0.0.1600.900" width="1117" height="108" />
+    <size key="EditParametersPopupWindow.0.0.1600.900" width="476" height="248" />
+    <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" width="524" height="512" />
+  </component>
+</application>

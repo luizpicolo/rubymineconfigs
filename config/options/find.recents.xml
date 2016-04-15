@@ -1,0 +1,41 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>drop</find>
+      <find>files here</find>
+      <find>print_all</find>
+      <find>show</find>
+      <find>all</find>
+      <find>Student.joins(:disciplines).where('disciplines.class_room_id = ?', params[:id])</find>
+      <find>model</find>
+      <find>type</find>
+      <find>studen</find>
+      <find>student</find>
+      <find>select</find>
+      <find>date</find>
+      <find>album</find>
+      <find>update</find>
+      <find>puts</find>
+      <find>ye</find>
+      <find>addy</find>
+      <find>Addy</find>
+      <find>YouTubeRails</find>
+      <find>show_students</find>
+      <find>teacher</find>
+      <find>show_student</find>
+      <find>total</find>
+      <find>owl</find>
+      <find>banner</find>
+      <find>'</find>
+      <find>demo-basic</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@student</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/ruby/boletinonline</dir>
+      <dir>$USER_HOME$/ruby/agronegociosgs</dir>
+    </dirStrings>
+  </component>
+</application>

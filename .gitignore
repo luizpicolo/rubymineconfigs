@@ -1,0 +1,15 @@
+config/componentVersions
+config/options/window.manager.xml
+config/options/gemmanager.xml
+config/options/appComponentVersions.xml
+config/options/applicationLibraries.xml
+config/options/other.xml
+config/options/feature.usage.statistics.xml
+config/options/statistics.application.usages.xml
+config/options/options.xml
+config/options/browsers.xml
+config/plugins/extensions.xml
+config/rubymine70.key
+system/
+.idea
+pmip
