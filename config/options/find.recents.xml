@@ -1,18 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>drop</find>
-      <find>files here</find>
-      <find>print_all</find>
-      <find>show</find>
-      <find>all</find>
-      <find>Student.joins(:disciplines).where('disciplines.class_room_id = ?', params[:id])</find>
-      <find>model</find>
-      <find>type</find>
-      <find>studen</find>
-      <find>student</find>
-      <find>select</find>
-      <find>date</find>
       <find>album</find>
       <find>update</find>
       <find>puts</find>
@@ -28,14 +16,32 @@
       <find>banner</find>
       <find>'</find>
       <find>demo-basic</find>
+      <find>news</find>
+      <find>grandes</find>
+      <find>students</find>
+      <find>input</find>
+      <find>next</find>
+      <find>root</find>
+      <find>croppie</find>
+      <find>button</find>
+      <find>btn</find>
+      <find>be_true</find>
+      <find>&quot;</find>
+      <find>news-grades</find>
+      <find>submit</find>
+      <find>routes</find>
+      <find>draw</find>
     </findStrings>
     <replaceStrings>
       <replace>@student</replace>
       <replace>&quot;</replace>
+      <replace>1</replace>
+      <replace>'</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$/ruby/boletinonline</dir>
       <dir>$USER_HOME$/ruby/agronegociosgs</dir>
+      <dir>$USER_HOME$/ruby/rails_admin_content_builder</dir>
     </dirStrings>
   </component>
 </application>
