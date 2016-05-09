@@ -10,6 +10,7 @@ config/options/options.xml
 config/options/browsers.xml
 config/plugins/extensions.xml
 config/rubymine70.key
+config/tasks/
 system/
 .idea
 pmip

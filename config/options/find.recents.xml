@@ -1,24 +1,12 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>album</find>
-      <find>update</find>
-      <find>puts</find>
-      <find>ye</find>
-      <find>addy</find>
-      <find>Addy</find>
-      <find>YouTubeRails</find>
-      <find>show_students</find>
-      <find>teacher</find>
-      <find>show_student</find>
-      <find>total</find>
       <find>owl</find>
       <find>banner</find>
       <find>'</find>
       <find>demo-basic</find>
       <find>news</find>
       <find>grandes</find>
-      <find>students</find>
       <find>input</find>
       <find>next</find>
       <find>root</find>
@@ -26,16 +14,29 @@
       <find>button</find>
       <find>btn</find>
       <find>be_true</find>
-      <find>&quot;</find>
       <find>news-grades</find>
-      <find>submit</find>
       <find>routes</find>
       <find>draw</find>
+      <find>:with =&gt;</find>
+      <find>fri</find>
+      <find>url</find>
+      <find>submit</find>
+      <find>video</find>
+      <find>iframe</find>
+      <find>remove</find>
+      <find>host</find>
+      <find>teacher</find>
+      <find>destroy_frequence</find>
+      <find>students</find>
+      <find>&quot;</find>
+      <find>stub</find>
+      <find>xml</find>
     </findStrings>
     <replaceStrings>
       <replace>@student</replace>
       <replace>&quot;</replace>
       <replace>1</replace>
+      <replace>with:</replace>
       <replace>'</replace>
     </replaceStrings>
     <dirStrings>
